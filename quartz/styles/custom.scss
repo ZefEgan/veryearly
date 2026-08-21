@@ -1,3 +1,22 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+/* Remove bold from in-article section headers (h1-h6) */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400 !important;
+}
+
+/* Remove bold from page titles and site header elements */
+.article-title, 
+.page-title, 
+header h1,
+header h2 {
+  font-weight: 400 !important;
+}
+/* Remove bold from the main Quartz site title / header brand */
+.page-title,
+.page-title a,
+.header-title,
+a.page-title {
+  font-weight: 400 !important;
+}

@@ -1,45 +1,45 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: very early
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: https://veryearly.zefegan.com/
   ignorePatterns:
     - private
     - templates
     - .obsidian
   theme:
     fontOrigin: googleFonts
-    cdnCaching: true
+    cdnCaching: false
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: "EB Garamond"
+      body: "EB Garamond"
+      code: "IBM Plex Mono"
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#F0F7FC"
+        lightgray: "#D2E4F1"
+        gray: "#9CBAD2"
+        darkgray: "#1C354A"
+        dark: "#0B1D2C"
+        secondary: "#1A6B9E"
+        tertiary: "#2D9AA6"
+        highlight: "rgba(45, 154, 166, 0.12)"
+        textHighlight: "#CAE6B288"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#0A131C"
+        lightgray: "#142536"
+        gray: "#3A556E"
+        darkgray: "#CFDFEC"
+        dark: "#EAF3FA"
+        secondary: "#4CA3D9"
+        tertiary: "#57C4D1"
+        highlight: "rgba(76, 163, 217, 0.15)"
+        textHighlight: "#3D694188"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -61,7 +61,17 @@ plugins:
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:
+      comments: true
+      highlight: true
+      wikilinks: true
+      callouts: true
+      mermaid: true
+      parseTags: true
+      parseArrows: true
+      parseBlockReferences: true
       enableInHtmlEmbed: false
+      enableYouTubeEmbed: true
+      enableVideoEmbed: true
       enableCheckbox: true
     order: 30
   - source: "@quartz-community/github-flavored-markdown"
@@ -90,7 +100,7 @@ plugins:
     enabled: false
     order: 85
   - source: "@quartz-community/hard-line-breaks"
-    enabled: false
+    enabled: true
     order: 90
   - source: "@quartz-community/ox-hugo"
     enabled: false
@@ -98,17 +108,32 @@ plugins:
   - source: "@quartz-community/roam"
     enabled: false
     order: 92
-  - source: "@quartz-community/quartz-fonts"
-    enabled: true
   - source: "@quartz-themes/core"
     enabled: false
     options:
-      theme: tokyo-night
+      theme: null
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
     enabled: false
+  - source: "@quartz-community/unlisted-pages"
+    enabled: true
+    options: {}
+    order: 45
+  - source: "@quartz-community/encrypted-pages"
+    enabled: true
+    options:
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
+  - source: "@quartz-community/stacked-pages"
+    enabled: false
+    layout:
+      position: afterBody
+      priority: 50
+      display: all
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"
@@ -203,8 +228,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com
+        Discord Community: https://discord.gg
     layout:
       position: footer
       priority: 50
@@ -239,24 +264,21 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: "@quartz-community/unlisted-pages"
-    enabled: true
-    options: {}
-    order: 45
-  - source: "@quartz-community/encrypted-pages"
+  - source: "@quartz-community/obsidian-plugin-excalidraw"
+    enabled: false # Switched to false to clear out the active loading warning trace
+    options:
+      enableInteraction: true
+      darkMode: auto
+      exportPadding: 20
+    order: 50
+  - source: "@quartz-community/quartz-fonts"
     enabled: true
     options:
-      iterations: 600000
-      passwordField: password
-      unlistWhenEncrypted: false
-      outputPath: static/encryptedContentIndex.json
-    order: 900
-  - source: "@quartz-community/stacked-pages"
-    enabled: false
-    layout:
-      position: afterBody
-      priority: 50
-      display: all
+      fontOrigin: googleFonts
+      useThemeFonts: false
+      body: "EB Garamond"
+      header: "EB Garamond"
+      code: "IBM Plex Mono"
 layout:
   groups:
     toolbar:
