@@ -20,3 +20,11 @@ header h2 {
 a.page-title {
   font-weight: 400 !important;
 }
+footer::after {
+  content: "Here comes the ocean and the waves\A Down by the sea";
+  display: block;
+  font-style: italic;
+  white-space: pre-wrap; /* Forces the CSS to respect the line break */
+  margin-top: 0.5rem; 
+  color: var(--gray); 
+}
