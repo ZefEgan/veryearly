@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://veryearly.zefegan.com/
+  baseUrl: veryearly.zefegan.com
   ignorePatterns:
     - private
     - templates
