@@ -8,7 +8,7 @@ I wanted to revisit something I jotted down on March 31:
 ### *Everybody Knows This Is Nowhere*
 
 
-What of a place that exist only in literature, or only in the literature of a particular author, a place that has a country, a climate, but doesn't exist? Survey this field.
+What of a place that exist only in literature, or only in the work of a particular author, a place that has a country, a climate, but doesn't exist? Survey this field.
 
 There are writers like Faulkner or Juan Benet who create counties or regions. These places are rural. They exist in countries with real capitals, torn apart by recent civil wars. Faulkner created Yoknapatawpha modeled after Lafayette County, Mississippi. Juan Benet created Región modeled after El Bierzo or some other place in the Cantabrian mountains. Proust made a place like this with Combray, yet Paris in Proust is, of course, Paris. But Paris is Proust belongs fully to Proust. And I think this is getting closer to what I am interested in.
 
