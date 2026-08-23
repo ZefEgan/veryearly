@@ -14,7 +14,7 @@ There are writers like Faulkner or Juan Benet who create counties or regions. Th
 
 The city proliferates indefinite articles. A writer can invent, totally, a city that exists in real life. Topoi or universes with the city inspire reinvention, akin to the Arcades Project by Walter Benjamin? Establishing this time-bound (19th Century) Parisien niche, the more Benjamin quotes the more the passages (of prose or enclossed in glass) becomes his own. Benjamin for the arcades, Zola for Les Halles etc.
 
-Some writers fabricate cities. Roberto Bolaño concocted Santa Teresa and Juan Carlos Onetti devised Santa Maria. One may invent a border city or port city but not a capital? Is this the rule. Since a capital is always a work of pure fiction, and indefinite article. In literature, perhaps. What about Batman in Gotham? "Metropolis is New York in the daytime, and Gotham City is New York at night." Or Marco Polo, a sea-faring Scheherazade, describing *invisible cities* to Kublai Khan.
+Some writers fabricate cities. Roberto Bolaño concocted Santa Teresa and Juan Carlos Onetti devised Santa Maria. One may invent a border city or port city but not a capital? Is this the rule. The capital is always a work of pure fiction. In literature, perhaps. What about Batman in Gotham? "Metropolis is New York in the daytime, and Gotham City is New York at night." Or Marco Polo, a sea-faring Scheherazade, describing *invisible cities* to Kublai Khan.
 
 Let me keep moving. Then there are writers like Joyce who "put a city on the map" to speak like a ruffian, so that when Enrique Vila-Matas has a personage travel to Dublin, he is traveling to the setting of Ulysses which just happens to be, inconsequentially, the capital of Ireland.
 
