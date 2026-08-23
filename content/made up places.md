@@ -9,7 +9,7 @@ What of a place that exist only in literature, or only in the literature of a pa
 
 There are writers like Faulkner or Juan Benet who create counties or regions. Crucially, these places are rural. They exist in countries with real capitals, recent civil wars. Faulkner created Yoknapatawpha modeled after Lafayette County, Mississippi. Juan Benet created Región modeled after El Bierzo or some otherbplace in the Cantabrian mountains. Proust made a place like this with Combray, yet Paris in Proust is, of course, Paris. But Paris is Proust belongs fully to Proust. And I think this is getting closer to what I am interested in.
 
-A city creates an indefinite article. It multiplies. A writer can totally invest a city that exists in real life. What about the Arcades Project by Walter Benjamin? A topos opened by Benjamin, not only in space, but in time (19th Century). The more Benjamin quotes the more the work becomes his own. Benjamin for arcades, Zola for Les Halles?
+A city creates an indefinite article. It multiplies. A writer can totally invent a city that exists in real life. What about the Arcades Project by Walter Benjamin? A topos opened by Benjamin, not only in space, but in time (19th Century). The more Benjamin quotes the more the work becomes his own. Benjamin for arcades, Zola for Les Halles?
 
 There are some writers who invented cities. Roberto Bolaño concocted Santa Teresa and Juan Carlos Onetti devised Santa Maria. One may invent a border city or port city but not a capital? Is this the rule. Since a capital is always a work of pure fiction, and indefinite article. In literature, perhaps. What about Batman in Gotham? "Metropolis is New York in the daytime, and Gotham City is New York at night."
 
