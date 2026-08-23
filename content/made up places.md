@@ -23,7 +23,7 @@ Javier Marías is accused of inventing places and people that actually exist (Re
 
 What is the relationship then to colonialism? Does one not deign to invent a capital lest the real capital swallow the fictitious capital. Yet the engulfing or draining of a small town, or minor city, or even a rural county or inhospitable region, resembles real life under capitalism to such an extent that inventing a place like this is just as good as selecting one from memory or an atlas. James Agee may have well invented Hale County, Alabama.
 
-Roth would never invent Newark. McMurtry invents Thalia, but not Houston. What has Leonard Cohen made of Montreal (or Parc du Portugal) or Neruda made of Isla Negra? Fame, Pagan cult? Has Bashō made foot trails?
+Roth would never invent Newark. McMurtry invents Thalia, but not Houston. What has Leonard Cohen made of Montreal (or Parc du Portugal) or Neruda made of Isla Negra? Fame, Pagan cult? Has Bashō left foot trails or Japan?
 
 Grace Paley has no need of inventing New York City. Instead, Grace *made* an idiom. Her characters, *personajes transversales*, fight for a real place. This heartfelt struggle is her Yoknapatawpha County? Imagine "Faith in a Tree."
 
