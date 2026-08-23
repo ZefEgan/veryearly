@@ -17,7 +17,7 @@ Let me keep moving. Then there are writers like Joyce who "put a city on the map
 
 Should we focus on *Roman-fleuve* as a genre? Balzac and Zola have made a fictional terrain of Paris that persists through novels.
 
-Back to *2666*: An literary quarrel over who first called London a labyrinth, Borges, Stevenson or Dickens, precipitates the near murder of a Pakistani cab driver in The Part About the Critics. But Dickens and Stevenson did not invent places nor write *roman-fleuve*. Did Stevenson invent the Samoa, "una isla del Pacífico," that Marcel Schwob made a pilgrimage to in equally fragile health? I mention this, of course, in reference to Morini comparing this to the voyage to Sonora in search of the invented author. (Is Archimboldi a place?)
+Back to *2666*: A literary quarrel over who first called London a labyrinth, Borges, Stevenson or Dickens, precipitates the near murder of a Pakistani cab driver in The Part About the Critics. But Dickens and Stevenson did not invent places nor write *roman-fleuve*. Did Stevenson invent the Samoa, "una isla del Pacífico," that Marcel Schwob made a pilgrimage to in equally fragile health? I mention this, of course, in reference to Morini comparing this to the voyage to Sonora in search of the invented author. (Is Archimboldi a place?)
 
 Javier Marías is accused of inventing places and people that actually exist (Redonda and John Gawsworth, respectively) and Marías inherits a real, farcical Kingdom. (*Everybody Knows This Is Nowhere*). Tove Jansson composes *Roman-fleuve* and short story cycles, but her islands are real. In fact, she builds a house atop an secluded tree-less island in the Pellinge archipelago of the Gulf of Finland. This is like Thoreau who does not invent Walden but builds it.
 
