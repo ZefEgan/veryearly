@@ -3,11 +3,14 @@ I wanted to revisit something I jotted down on March 31:
 
 > Latin American authors, *personajes transversales*, beginning with Faulkner. For real though, Piglia, Saer, Bolaño, Benet, Onetti. McMurtry. Roth, actually. Javier Marías and Claude Simon, jumping the pond. Throw in Max Aub.  Balzac at this hour of the day! Joyce, sure. Grace & Tove (composite novel). *Roman-fleuve*. Surprisingly, not Cortázar.  A fear of ending something, or love of pluralism.
 
-*Personajes transversales* reappear. [^1]
+*Personajes transversales* reappear in another novel, walking the same streets. [^1]
 
-What of a place that exist only in literature, or only in the literature of a particular author, or has a country, climate but doesn't exist. Clarify this field.
+### *Everybody Knows This Is Nowhere*
 
-There are writers like Faulkner or Juan Benet who create counties or regions. These places are rural. They exist in countries with real capitals, recent civil wars. Faulkner created Yoknapatawpha modeled after Lafayette County, Mississippi. Juan Benet created Región modeled after El Bierzo or some otherbplace in the Cantabrian mountains. Proust made a place like this with Combray, yet Paris in Proust is, of course, Paris. But Paris is Proust belongs fully to Proust. And I think this is getting closer to what I am interested in.
+
+What of a place that exist only in literature, or only in the literature of a particular author, a place that has a country, a climate, but doesn't exist? Survey this field.
+
+There are writers like Faulkner or Juan Benet who create counties or regions. These places are rural. They exist in countries with real capitals, torn apart by recent civil wars. Faulkner created Yoknapatawpha modeled after Lafayette County, Mississippi. Juan Benet created Región modeled after El Bierzo or some other place in the Cantabrian mountains. Proust made a place like this with Combray, yet Paris in Proust is, of course, Paris. But Paris is Proust belongs fully to Proust. And I think this is getting closer to what I am interested in.
 
 The city proliferates indefinite articles. A writer can invent, totally, a city that exists in real life. Topoi or universes with the city inspire reinvention, akin to the Arcades Project by Walter Benjamin? Establishing this time-bound (19th Century) Parisien niche, the more Benjamin quotes the more the passages (of prose or enclossed in glass) becomes his own. Benjamin for the arcades, Zola for Les Halles etc.
 
@@ -19,7 +22,7 @@ Should we focus on *Roman-fleuve* as a genre? Balzac and Zola have made a fictio
 
 Back to *2666*: A literary quarrel over who first called London a labyrinth, Borges, Stevenson or Dickens, precipitates the near murder of a Pakistani cab driver in The Part About the Critics. But Dickens and Stevenson did not invent places nor write *roman-fleuve*. Did Stevenson invent the Samoa, "una isla del Pacífico," that Marcel Schwob made a pilgrimage to in equally fragile health? I mention this, of course, in reference to Morini comparing this to the voyage to Sonora in search of the invented author. (Is Archimboldi a place?)
 
-Javier Marías is accused of inventing places and people that actually exist (Redonda and John Gawsworth, respectively) and Marías inherits a real, farcical Kingdom. (*Everybody Knows This Is Nowhere*). Tove Jansson composes *Roman-fleuve* and short story cycles, but her islands are real. In fact, she builds a house atop an secluded tree-less island in the Pellinge archipelago of the Gulf of Finland. This is like Thoreau who does not invent Walden but builds it.
+Javier Marías is accused of inventing places and people that actually exist (Redonda and John Gawsworth, respectively) and Marías inherits a real, farcical Kingdom. Tove Jansson composes *Roman-fleuve* and short story cycles, but her islands are real. In fact, she builds a house atop an secluded tree-less island in the Pellinge archipelago of the Gulf of Finland. This is like Thoreau who does not invent Walden but builds it.
 
 What is the relationship then to colonialism? Does one not deign to invent a capital lest the real capital swallow the fictitious capital. Yet the engulfing or draining of a small town, or minor city, or even a rural county or inhospitable region, resembles real life under capitalism to such an extent that inventing a place like this is just as good as selecting one from memory or an atlas. James Agee may have well invented Hale County, Alabama.
 
