@@ -1,6 +1,5 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
 /* Remove bold from in-article section headers (h1-h6) */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400 !important;
@@ -10,32 +9,29 @@ h1, h2, h3, h4, h5, h6 {
 .article-title, 
 .page-title, 
 header h1,
-header h2 {
-  font-weight: 400 !important;
-}
-/* Remove bold from the main Quartz site title / header brand */
-.page-title,
-.page-title a,
-.header-title,
+header h2,
+header-title,
 a.page-title {
   font-weight: 400 !important;
 }
+
 footer::after {
   content: "Here comes the ocean and the waves\A Down by the sea";
   display: block;
   font-style: italic;
-  white-space: pre-wrap; /* Forces the CSS to respect the line break */
+  white-space: pre-wrap;
   margin-top: 0.5rem; 
   color: var(--gray); 
 }
+
 .content-meta {
   display: none;
 }
-/* quartz/styles/custom.scss */
 
-/* Map container dimensions & layout */
-#map, 
-.map-container {
+/* Map container & iFrame reset */
+.map-container,
+.map-frame-wrapper,
+#map {
   width: 100%;
   height: 500px;
   position: relative;
@@ -43,9 +39,12 @@ footer::after {
   overflow: hidden;
   margin: 1.5rem 0;
   z-index: 1;
+  background: transparent !important;
+  background-color: transparent !important;
+  color-scheme: normal !important;
 }
 
-/* Reset Quartz global image rules so map tiles don't distort */
+/* Reset image rules for map tiles */
 #map img,
 .map-container img,
 .ol-viewport img,
@@ -59,48 +58,17 @@ footer::after {
   box-shadow: none !important;
 }
 
-/* iFrame wrapper for embedded maps */
-.map-frame-wrapper {
-  position: relative;
+/* Force iframe transparency across all theme states and SPA navigation */
+.map-container iframe,
+.map-frame-wrapper iframe,
+iframe#openlayers-map,
+html[saved-theme="dark"] .map-container iframe,
+html[saved-theme="light"] .map-container iframe {
   width: 100%;
-  height: 600px;
-  overflow: hidden;
+  height: 100%;
+  border: none;
   border-radius: 8px;
-
-  iframe {
-    width: 100%;
-    height: 100%;
-    border: 0;
-  }
-}
-/* Force map container and viewport canvas to be transparent */
-#map,
-.map-container,
-.ol-viewport,
-.ol-viewport canvas,
-.leaflet-container,
-.map-frame-wrapper,
-.map-frame-wrapper iframe {
   background: transparent !important;
   background-color: transparent !important;
-}
-/* quartz/styles/custom.scss */
-
-.map-container {
-  width: 100%;
-  height: 500px;
-  position: relative;
-  background: transparent !important;
-  background-color: transparent !important;
-  margin: 1.5rem 0;
-  z-index: 1;
-
-  iframe#openlayers-map {
-    width: 100%;
-    height: 100%;
-    background: transparent !important;
-    background-color: transparent !important;
-    border: none;
-    border-radius: 8px;
-  }
+  color-scheme: light !important; /* Disables browser dark mode canvas fill */
 }
