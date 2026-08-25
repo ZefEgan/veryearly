@@ -31,3 +31,45 @@ footer::after {
 .content-meta {
   display: none;
 }
+/* quartz/styles/custom.scss */
+
+/* Map container dimensions & layout */
+#map, 
+.map-container {
+  width: 100%;
+  height: 500px;
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1.5rem 0;
+  z-index: 1;
+}
+
+/* Reset Quartz global image rules so map tiles don't distort */
+#map img,
+.map-container img,
+.ol-viewport img,
+.leaflet-container img {
+  max-width: none !important;
+  max-height: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+/* iFrame wrapper for embedded maps */
+.map-frame-wrapper {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  border-radius: 8px;
+
+  iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
