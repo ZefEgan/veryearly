@@ -73,3 +73,14 @@ footer::after {
     border: 0;
   }
 }
+/* Force map container and viewport canvas to be transparent */
+#map,
+.map-container,
+.ol-viewport,
+.ol-viewport canvas,
+.leaflet-container,
+.map-frame-wrapper,
+.map-frame-wrapper iframe {
+  background: transparent !important;
+  background-color: transparent !important;
+}
