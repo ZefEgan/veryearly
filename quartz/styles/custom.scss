@@ -31,3 +31,10 @@ footer::after {
 .content-meta {
   display: none;
 }
+/* When Quartz switches to dark mode */
+[saved-theme="dark"] #openlayers-map {
+  /* Sets the iframe background color */
+  background-color: #0A131C !important;
+  /* Applies dark mode filter to map tiles */
+  filter: invert(90%) hue-rotate(180deg) brightness(90%) contrast(90%);
+}
