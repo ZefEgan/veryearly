@@ -5,7 +5,7 @@ Moby Dick (and everything else Melville wrote about whaling) was on the cusp of 
 
 I read on the subway months apart "What, Exactly, is an Empire?" by Sanjay Subrahmanyam and "Questions of Conquest: What Columbus wrought, and what he did not" by Mario Vargas Llosa.
 
-Eventually this devolved into a reading list. *Prince Henry "the Navigator"* by Russel or Parker's Philip II or Henry V. The Spanish Empire Series by Hugh Thomas. Steve Coll on the American wars (declared and proxy) in Middle East. Christopher Alan Bayly's *Empire and Information.* Fernández-Armesto's *Pathfinders: A Global History of Exploration.* And reread *The Mapmakers*.
+Eventually this devolved into a reading list. *Prince Henry "the Navigator"* by Russel or Parker's Philip II or Henry V. The Spanish Empire Series by Hugh Thomas. Steve Coll on the American wars (declared and proxy) in the Middle East. Christopher Alan Bayly's *Empire and Information.* Fernández-Armesto's *Pathfinders: A Global History of Exploration.* And reread *The Mapmakers*.
 
 - [ ] _Latinoamérica: las ciudades y las ideas_
 - [ ] *La ciudad latinoamericana: Una figura de la imaginación social del siglo XX*
