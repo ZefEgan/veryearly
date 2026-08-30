@@ -78,3 +78,10 @@ html[saved-theme="light"] .map-container iframe {
     font-weight: normal !important;
   }
 }
+footer {
+  font-weight: normal;
+
+  & * {
+    font-weight: normal;
+  }
+}
