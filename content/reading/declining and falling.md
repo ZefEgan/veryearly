@@ -13,8 +13,8 @@ So this urge, like most, devolved into a reading list.
 - [ ] Parker's Philip II or Henry V
 - [ ] The Spanish Empire Series by Hugh Thomas
 - [ ] Steve Coll on the American wars (declared and proxy) in the Middle East
-- [ ] Christopher Alan Bayly's *Empire and Information
-- [ ] Fernández-Armesto's *Pathfinders: A Global History of Exploration
+- [ ] Christopher Alan Bayly's *Empire and Information*
+- [ ] Fernández-Armesto's *Pathfinders: A Global History of Exploration*
 - [ ] _Latinoamérica: las ciudades y las ideas_
 - [ ] *La ciudad latinoamericana: Una figura de la imaginación social del siglo XX*
 - [ ] Reread *The Mapmakers*.
