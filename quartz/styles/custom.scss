@@ -72,3 +72,9 @@ html[saved-theme="light"] .map-container iframe {
   background-color: transparent !important;
   color-scheme: light !important; /* Disables browser dark mode canvas fill */
 }
+// Target everything inside the Quartz left sidebar container
+.sidebar.left {
+  &, * {
+    font-weight: normal !important;
+  }
+}
