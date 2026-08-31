@@ -1,9 +1,9 @@
 
-Suddenly, I found myself wanting to read Shelby Foote on the incurable Cotton Kingdom or Jan Morris[^1] on the sunset of the British Empire. Something about the prose of these apologists for empire pulled me in. I remembered Zukofsky reading Gibbon — a sea-change? Or was I just thirty-something and bored over summer break after losing the freshmen seminar during which I usually taught Tove Jansson and Alejandro Zambra, who recall childhood — another lost empire.
+Suddenly, I found myself reading Shelby Foote on the incurable Cotton Kingdom or Jan Morris[^1] on the sunset of the British Empire. Something about the prose of these apologists for empire pulled me in. I remembered Zukofsky reading Gibbon — a sea-change? Or was I just thirty-something and bored over summer break after losing the freshmen seminar during which I usually taught Tove Jansson and Alejandro Zambra, who recall childhood — another lost empire.
 
-Once L. (the octogenarian bookseller) told me to read Francis Parkman; actually, L. told me she *still loved Parkman* and I heard you must read him.  D. (another octogenarian bookseller) spoke of his fascination with Spengler. Both L. and D. made clear their ideas were debunked, but the prose —irresistible.
+Once Linda (the octogenarian bookseller) told me to read Francis Parkman; actually, Linda told me she *still loved Parkman* and I heard you must read him.  Dave (another octogenarian bookseller) spoke of his fascination with Spengler, clarifying that his ideas were debunked, but the prose —irresistible.
 
-Melville penned Moby Dick on the cusp of the collapse of the whaling industry. Rigs replaced the Leviathan. Electricity and oil, mysteries: Benet's *Una Meditacion*.[^2] Abd al-Rahman Munif.
+Melville penned Moby Dick on the cusp of the collapse of the whaling industry. Rigs replaced sperm whales. Electricity and oil, mysteries: Benet's *Una Meditacion*.[^2] Abd al-Rahman Munif.
 
 I read on the subway months apart "What, Exactly, is an Empire?" by Sanjay Subrahmanyam and "Questions of Conquest: What Columbus wrought, and what he did not" by Mario Vargas Llosa.
 
