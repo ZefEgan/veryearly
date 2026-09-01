@@ -1,1 +1,0 @@
-![[blue kitten.png]]
