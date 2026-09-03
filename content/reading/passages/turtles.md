@@ -1,3 +1,4 @@
+#parkman #cormac #chatwin #darwin
 > They reached Dominica on Sunday, the fifth of August. The chaplain tells us how he went on shore to refresh himself; how, while his Italian servant washed his linen at a brook, he strolled along the beach and picked up shells; and how he was scared, first, by a prodigious turtle, and next by a vision of the cannibal natives, which caused his prompt retreat to the boats.[^1]
 
 [^1]: Parkman, Francis. France and England in North America. United States: Library of America, 1868.
