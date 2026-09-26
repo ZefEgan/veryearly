@@ -20,7 +20,9 @@ So this urge, like most, devolved into a reading list.
 - [ ] Reread *The Mapmakers*.
 
 2 blind scholars — Borges and Prescott
-5 blind travelers — Parkman, Prescott, Borges, Chatwin, Cole 
+5 blind travelers — Parkman, Prescott, Borges, Chatwin, Cole
+
+#morris #foote #jansson #benet #munif #llosa #parkman #zambra #gibbon
 
 [^1]: Morris, who tends to personify Britain as a lady in her trilogy, transitioned herself at the age of 46. See her memoir *Conundrum.*
 [^2]: "Possibly to assuage his industrial spirit (which couldn't reconcile itself to giving its approval to an investment without return just like that he also acquired an old flour mill located a few miles upriver from the farm and — forming a small corporate venture with some other gentlemen from the city, which they called Electra de San Juan, based on his name — and set up a small electrical enterprise with a turbine and an alternator that he bought through a Swiss, Mr. Hocher, who from then on would become "just like one of the family," which served him well to court one of my aunts in spite of my grandmother's repugnance at marrying one of her daughters, who had always been considered the most worthy according to the canon by which she was evaluated, to a foreigner, a widower, a person outside the Christian religion, and, to top it off, having two children to support."

@@ -33,4 +33,6 @@ Grace Paley has no need of inventing New York City. Instead, Grace *made* an idi
 
 Jose Saer writes about Santa Fe and Río de la Plata (La Zona) in fiction and non-fiction (_El río sin orillas_). But the New World is an invention, see _The Witness_ (_El entenado_). Finally, for now, what about Max Aub who "invents" *campos* — fields or camps — open or closed, battlefields or contraction camps.
 
+#faulkner #piglia #saer #bolaño #benet #onetti #mcmurtry #roth #aub #schwob #paley #agee #jansson #cohen #bashō #cortázar
+
 [^1]: Nunez, Raquel Bra. "Personajes transversales de ficción en la narrativa de Roberto Bolaño." _Portal_ 19, no. 1/2 (2023): 108-120.
